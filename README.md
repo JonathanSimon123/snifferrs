@@ -15,4 +15,4 @@ Rust玩具，便于调试。 不要修改代码，直接嗅探项目中的数据
 
 `./target/debug/snifferrs en0 mysql 3306`
 
-![GitHub license](https://github.com/JonathanSimon123/snifferrs/blob/main/image/demo.gif？style=popout-square)
+![演示](https://github.com/JonathanSimon123/snifferrs/blob/main/image/demo.gif?style=popout-square)
